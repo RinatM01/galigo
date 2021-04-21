@@ -1,0 +1,21 @@
+.galigoDiv .galigoLogo {
+	float: left;
+	height: 45px;
+}
+
+.galigoDiv .galigoName {
+	float: left;
+	margin-left: 20px;
+	/* letter-spacing: 4px; */
+	color: rgb(53, 53, 53);
+	font-size: 30px;
+	font-weight: 700;
+	font-style: normal;
+	vertical-align: middle;
+}
+
+.galigoDiv {
+	background-color: white;
+	padding: 7px 15px;
+	border-radius: 30px;
+}
