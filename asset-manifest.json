@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/galigo/static/css/main.4da2d316.chunk.css",
+    "main.js": "/galigo/static/js/main.a19765dd.chunk.js",
+    "main.js.map": "/galigo/static/js/main.a19765dd.chunk.js.map",
+    "runtime-main.js": "/galigo/static/js/runtime-main.dbc80616.js",
+    "runtime-main.js.map": "/galigo/static/js/runtime-main.dbc80616.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/galigo/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.953dfaef.chunk.js": "/galigo/static/js/2.953dfaef.chunk.js",
+    "static/js/2.953dfaef.chunk.js.map": "/galigo/static/js/2.953dfaef.chunk.js.map",
+    "static/js/3.8d771779.chunk.js": "/galigo/static/js/3.8d771779.chunk.js",
+    "static/js/3.8d771779.chunk.js.map": "/galigo/static/js/3.8d771779.chunk.js.map",
+    "index.html": "/galigo/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/galigo/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.4da2d316.chunk.css.map": "/galigo/static/css/main.4da2d316.chunk.css.map",
+    "static/js/2.953dfaef.chunk.js.LICENSE.txt": "/galigo/static/js/2.953dfaef.chunk.js.LICENSE.txt",
+    "static/media/bitmap374709aa.1d00a370.png": "/galigo/static/media/bitmap374709aa.1d00a370.png",
+    "static/media/G-engage.css": "/galigo/static/media/greenback.eb17ca04.jpg",
+    "static/media/screen_inst.1e9de274.png": "/galigo/static/media/screen_inst.1e9de274.png",
+    "static/media/screen_network.655743ba.png": "/galigo/static/media/screen_network.655743ba.png",
+    "static/media/screen_profile.5cbd53e4.png": "/galigo/static/media/screen_profile.5cbd53e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc80616.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.953dfaef.chunk.js",
+    "static/css/main.4da2d316.chunk.css",
+    "static/js/main.a19765dd.chunk.js"
+  ]
+}
