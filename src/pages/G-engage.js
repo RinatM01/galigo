@@ -126,7 +126,7 @@ export default function G_engage() {
 					<form action="">
 						<input
 							type="text"
-							placeholder="Enter your email address and we'll get started right away"
+							placeholder="Enter your email address and get started right!"
 						/>
 						<button>Let's try</button>
 					</form>
